@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b5dbe91b-263f-4643-9a26-13126f4ca395" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.vscode/settings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/all_courses.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/all_courses.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/class10.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/class10.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/class10dpp.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/class10dpp.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/class10enrolled.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/class10enrolled.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/class10notes.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/class10notes.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/class10video.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/class10video.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/class11.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/class11.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/class11enrolled.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/class11enrolled.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/class11jee.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/class11jee.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/class11jeeenrolled.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/class11jeeenrolled.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/class11neet.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/class11neet.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/class11neetenrolled.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/class11neetenrolled.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/class12.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/class12.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/class12enrolled.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/class12enrolled.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/class12jee.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/class12jee.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/class12jeeenrolled.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/class12jeeenrolled.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/class12neet.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/class12neet.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/class12neetenrolled.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/class12neetenrolled.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/class9.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/class9.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/class9dpp.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/class9enrolled.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/class9enrolled.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/class9notes.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/class9notes.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/class9videos.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/class9videos.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/feedback.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/feedback.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/interaction.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/interaction.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/my_courses.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/my_courses.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/new.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/new.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/profile.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/profile.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/sample-page.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/sample-page.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/sample_papers.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/sample_papers.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/success.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/success.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/test_series.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/test_series.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/updateprofile.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/updateprofile.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="2SYULp1cLPgePgdUf6d3l7DRRKd" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="MTConfigurable" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b5dbe91b-263f-4643-9a26-13126f4ca395" name="Changes" comment="" />
+      <created>1689322959424</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1689322959424</updated>
+      <workItem from="1689322961878" duration="2000" />
+    </task>
+    <servers />
+  </component>
+</project>
